@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DarMarket</string>
+    <string name="navigationItem_home">Главная</string>
+    <string name="navigationItem_productSave">Корзина</string>
+    <string name="navigationItem_productList">Каталог</string>
+</resources>
